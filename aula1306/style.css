@@ -1,0 +1,22 @@
+body {
+  background-color: papayawhip;
+  font-family: "Lato", sans-serif;
+  color: midnightblue;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  color: purple;
+}
+
+a {
+  text-decoration: none;
+  padding-right: 12px;
+}
+
+img {
+  width: 240px;
+  border-radius: 16px;
+}
